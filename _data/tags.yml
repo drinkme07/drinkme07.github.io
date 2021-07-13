@@ -1,11 +1,11 @@
-tag1:
+world:
   name: world
 
-tag2:
+story:
   name: story
 
-tag3:
+system:
   name: system
 
-tag4:
+form:
   name: form
